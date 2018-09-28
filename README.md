@@ -4,4 +4,4 @@ https://github.com/rsych/test/blob/master/story.jpeg
 
 <img src="https://github.com/rsych/test/blob/master/story.jpeg">
 <script>alert('test');</script>
-<iframe src="//google.com"></inrame>
+<iframe src="//google.com"></iframe>
